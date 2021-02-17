@@ -5,6 +5,7 @@
 - Tracking the fish you've caught so far, saved locally
 - See what fish you have left to collect
 - See when and where to catch any missing fish
+- Some special feature that makes it different animal
 
 Updated with data visuals live, based off of your collection.
 
